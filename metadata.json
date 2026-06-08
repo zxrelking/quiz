@@ -1,0 +1,6 @@
+{
+  "name": "Software Engineering Quiz Platform",
+  "description": "An interactive, multi-sheet software engineering quiz system covering Fundamentals, Ethics, and System Modelling with score tracking and glowing option feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
